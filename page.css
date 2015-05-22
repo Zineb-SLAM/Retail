@@ -1,0 +1,16 @@
+<style>
+div#en_tete{
+    font-family: "Verdana";
+    font-size: 100px;
+    font-weight: bold;
+    color: #280000;
+    background: #D8D8D8 
+   height: 70px ;}
+
+div#contenu{
+    font-family: "Verdana";
+    font-size: 20px;
+    color: #280000;
+    background: #D8D8D8 
+   height: 30px ;}
+</style>

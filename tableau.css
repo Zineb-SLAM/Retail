@@ -1,0 +1,30 @@
+<style>
+/* .button {
+    top: 5px;
+    border: 3;
+    position:center;
+    right: 5px;
+    padding: 11px 12px;
+    cursor: pointer; -->
+    
+} */
+
+table,th,td
+	{font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    	margin: 18px;
+   	text-align: left;
+    	border-collapse: collapse;
+	border:collapse solid blue;
+	width:0%;}
+th
+	{border-bottom: 1px solid #fff;
+	color: #039;
+	background-color:#48D1CC;
+	height:60px;
+	font-size: 20px;}
+td
+       {text-align:center;
+	background: #e8edff;
+	font-size: 30px;
+	color: black;}
+</style>
